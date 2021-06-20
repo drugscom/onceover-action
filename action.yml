@@ -1,0 +1,5 @@
+name: 'Onceover testing for Puppet'
+description: 'Run onceover testing framework'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
