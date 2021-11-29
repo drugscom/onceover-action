@@ -1,4 +1,4 @@
-FROM ruby:2.7.4-alpine3.13
+FROM ruby:2.7.5-alpine3.13
 
 LABEL 'com.github.actions.name'='Onceover'
 LABEL 'com.github.actions.description'='Run onceover testing framework'
